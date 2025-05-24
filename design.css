@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+.bodyindex{
+	margin-top: 200px;
+	background-image: url("Desain tanpa judul.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.mb-3{
+	position: center;
+}
+
+.form-control{
+	width: 300px;
+}
+
+.container-fluid{
+	padding-left: 40px;
+}
+
+.nav-item{
+}
+
+.kenalan{
+	margin-top: 20px;
+}
+
+.desciption{
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.desk{
+	padding-right: 80px;
+}
+
+.ppt{
+	margin: 80px;
+}
